@@ -9,7 +9,7 @@ Le joueur contrôle un vaisseau spatial évoluant dans une galaxie remplie de pl
 ## 🎮 Démonstration
 
 ### Jouer en ligne :
-👉 *Ajouter ici le lien GitHub Pages du projet* : `https://TON-PSEUDO.github.io/space-obstacle-avoidance/`
+👉 *Lien GitHub Pages du projet* : [https://ayoub185.github.io/space-obstacle-avoidance/](https://ayoub185.github.io/space-obstacle-avoidance/)
 
 ### Vidéos de démonstration :
 - `niveau 1.mp4` — introduction du niveau 1
@@ -338,7 +338,7 @@ node --test tests/*.test.mjs
 
 ### Cloner le projet
 ```bash
-git clone https://github.com/VOTRE-PSEUDO/space-obstacle-avoidance.git
+git clone https://github.com/AYOUB185/space-obstacle-avoidance.git
 cd space-obstacle-avoidance
 ```
 
