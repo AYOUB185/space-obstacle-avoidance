@@ -1,4 +1,4 @@
-# 🚀 Obstacle Avoidance — Space Adventure
+# 🚀 Space Obstacle Avoidance
 
 Jeu vidéo interactif réalisé en JavaScript avec **p5.js**, mettant en œuvre des comportements de **Steering Behaviors**, notamment l'évitement d'obstacles (**Obstacle Avoidance**).
 
@@ -424,3 +424,10 @@ Craig W. Reynolds, *Steering Behaviors For Autonomous Characters*, GDC 1999.
 
 L'objectif de ce projet est de transformer l'étude de l'**Obstacle Avoidance** et des **Steering Behaviors** en une expérience de jeu complète.  
 Au lieu de simplement montrer un véhicule évitant quelques obstacles, le comportement est intégré dans un environnement évolutif comprenant des ennemis, des projectiles, des niveaux, des ressources à collecter, des phénomènes gravitationnels et un boss final.
+
+---
+
+### 👨💻 Auteur
+
+`Votre Nom`
+
